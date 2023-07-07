@@ -45,6 +45,6 @@ Contributions to this project are welcome. To contribute, please:
 
 
 
-Made by [PigalleStud.io] 
+Made by [PigalleStud.io] by Paul Le Flanchec
 
 
