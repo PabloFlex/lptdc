@@ -1,0 +1,21 @@
+{
+  "name": "react-native-add-calendar-event",
+  "version": "4.0.0",
+  "summary": "creating events in react native using the standard iOS / Android dialogs",
+  "homepage": "https://github.com/vonovak/react-native-add-calendar-event",
+  "authors": "Vojtech Novak",
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/vonovak/react-native-add-calendar-event.git",
+    "tag": "v4.0.0"
+  },
+  "source_files": "ios/*.{h,m}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

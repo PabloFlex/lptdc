@@ -1,0 +1,6 @@
+module Pods_ThePatateDouce {
+  umbrella header "Pods-ThePatateDouce-umbrella.h"
+
+  export *
+  module * { export * }
+}

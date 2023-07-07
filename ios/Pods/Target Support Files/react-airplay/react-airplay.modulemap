@@ -1,0 +1,6 @@
+module react_airplay {
+  umbrella header "react-airplay-umbrella.h"
+
+  export *
+  module * { export * }
+}

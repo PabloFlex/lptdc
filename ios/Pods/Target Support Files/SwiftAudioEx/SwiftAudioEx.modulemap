@@ -1,0 +1,6 @@
+module SwiftAudioEx {
+  umbrella header "SwiftAudioEx-umbrella.h"
+
+  export *
+  module * { export * }
+}

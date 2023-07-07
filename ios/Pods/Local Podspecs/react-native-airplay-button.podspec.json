@@ -1,0 +1,21 @@
+{
+  "name": "react-native-airplay-button",
+  "version": "1.1.0",
+  "summary": "Stream audio or video to AirPlay-enabled devices with a customizable AirPlay button",
+  "homepage": "https://github.com/dylancom/react-native-airplay-button#readme",
+  "license": "MIT",
+  "authors": "Dylan Companjen <dylancompanjen@gmail.com> (https://github.com/dylancom)",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/dylancom/react-native-airplay-button.git",
+    "tag": "1.1.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

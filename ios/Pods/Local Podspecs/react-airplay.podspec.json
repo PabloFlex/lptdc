@@ -1,0 +1,27 @@
+{
+  "name": "react-airplay",
+  "version": "1.2.0",
+  "summary": "Airplay bridge for React Native",
+  "homepage": "https://github.com/tien/react-airplay#readme",
+  "license": "MIT",
+  "authors": "Tien Nguyen Khac <tiennguyenkhac1702@gmail.com> (https://github.com/tien)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/tien/react-airplay.git",
+    "tag": "1.2.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "exclude_files": [
+    "ios/Pods",
+    "ios/ReactAirplay.xcworkspace",
+    "ios/Podfile",
+    "ios/Podfile.lock"
+  ],
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}
